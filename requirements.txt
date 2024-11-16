@@ -1,0 +1,10 @@
+coloredlogs
+flatbuffers
+humanfriendly
+mpmath
+numpy
+onnxruntime-gpu
+opencv-python
+packaging
+protobuf
+sympy
